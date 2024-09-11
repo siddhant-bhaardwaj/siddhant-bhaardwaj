@@ -9,9 +9,9 @@ Feel free to reach out if you share similar interests or have interesting ideas 
 
 
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/siddhant-bhardwaj-1035711a9?trk=people-guest_people_search-card&challengeId=AQFxsjmoMLYGxAAAAZHg1OTgQ2zNB_BCxOTilD6r8pnLIBhFOjrJp0ybcnGv1vgzzU56ivVOR6bcJ-MwasQHSznZTgLwbEQypg&submissionId=732b214e-e82c-f417-03af-23ebb5670d13&challengeSource=AgF-DO3zQ8nKywAAAZHg1Rmu99a5H8LgPa713MWomhgvaKLLUvYHgXFsMIeYhQI&challegeType=AgHoMVLdAbcHAAAAAZHg1RmynfPkfb7FhB6uWZijd4ybBwXKVhc-s3M&memberId=AgH3qL003w_7nAAAAZHg1Rm1juhpDUxxxjPIzHRtoP-U_E4&recognizeDevice=AgEFxdi76Jhl-AAAAZHg1Rm4BbSv5WEN1o2o33fX9h4POe209uap) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-bhardwaj-1035711a9)
+
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
