@@ -1,11 +1,12 @@
 # 💫 About Me
 - 👋 Hi, I’m [@siddhant-bhaardwaj](https://github.com/siddhant-bhaardwaj)!
-- 👀 I’m passionate about AI and ML, with a keen interest in exploring the cyberworld.
-- 🌱 Currently diving deep into Python and expanding my skills in data science and machine learning.
-- 💡 Always curious about emerging technologies and innovative solutions.
-- 📫 You can connect with me on [Instagram](https://www.instagram.com/mr_bhaardwaj) for more updates and insights.
+- 👀 I’m a developer with a passion for exploring new technologies and innovations.
+- 🌱 Currently diving deep into Python and learning new skills.
+- 💡 I love experimenting with cutting-edge tech and discovering creative solutions.
+- 📫 Connect with me on [Instagram](https://www.instagram.com/mr_bhaardwaj) to follow my journey and collaborate on exciting projects!
 
-Feel free to reach out if you share similar interests or have exciting projects to collaborate on!
+Feel free to reach out if you share similar interests or have interesting ideas to discuss!
+
 
 
 
